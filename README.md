@@ -4,9 +4,12 @@
 - 💞️ I’m looking to collaborate on Pulsars 
 - 📫 How to reach me Juan.Lebron5@upr.edu 
 
-From Puerto Rico 
-Bachelor Deggre in Physics with a minor in Astronomy
+From Puerto Rico.
+
+Bachelor Deggre in Physics with a minor in Astronomy.
+
 Mostly Experienced in Python, Linux and open to learn other languages. 
+
 My works have been mostly related to pulsar research and education. 
 
 <!---
